@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "run": "node ./index.js "
+    "start": "node ./index.js ",
+    "run": "browser-sync start --server --files 'css/*.css'"
   },
   "repository": {
     "type": "git",
