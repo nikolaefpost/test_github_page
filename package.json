@@ -1,0 +1,23 @@
+{
+  "name": "test_github_page",
+  "version": "1.0.0",
+  "description": "test_github_page",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node ./index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolaefpost/test_github_page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolaefpost/test_github_page/issues"
+  },
+  "homepage": "https://github.com/nikolaefpost/test_github_page#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
